@@ -30,9 +30,9 @@ function ContactForm() {
   const form = useRef();
   const [message, setMessage] = useState(""); // State for success or error message
 
-  const EMAILJS_SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
-  const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
-  const EMAILJS_API_PUBLIC_KEY = import.meta.env.VITE_EMAILJS_API_PUBLIC_KEY;
+  const EMAILJS_SERVICE_ID = "service_flmskp1";
+  const EMAILJS_TEMPLATE_ID = "template_8ajyjmt";
+  const EMAILJS_API_PUBLIC_KEY = "5C7OPKEdQuru3mWeV"; 
 
   const sendEmail = (e) => {
     e.preventDefault();
