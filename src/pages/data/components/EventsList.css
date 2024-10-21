@@ -1,0 +1,154 @@
+/* General styles for full-screen layout and event containers */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  height: 100%;
+}
+
+.events-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #f4f4f4;
+  position: relative;
+  overflow: hidden;
+}
+
+.events-title {
+  font-size: 3rem;
+  margin-bottom: 40px;
+  color: black;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.events-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Adapt to screen size */
+  grid-gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+  list-style: none;
+  padding: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.event-item {
+  display: flex;
+  justify-content: center;
+}
+
+.event-button {
+  background-color: #ffffff;
+  border: 2px solid #006600; /* Brazilian flag green */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+}
+
+.event-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+}
+
+.event-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 2px solid #ffcc00; /* Brazilian flag yellow */
+}
+
+.event-details {
+  padding: 15px;
+  text-align: left;
+  color: #006600; /* Brazilian flag green */
+}
+
+.event-details h2 {
+  margin: 0 0 10px;
+  font-size: 1.5rem;
+}
+
+.event-details p {
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+/* Modal styles */
+.modal {
+  position: fixed; /* Fixed positioning to cover the full screen */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8); /* Dark overlay */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10000; /* High z-index to make sure it's above all other elements */
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px;
+  width: 90%;
+  position: relative;
+  z-index: 10001; /* Even higher to ensure it sits above the modal background */
+}
+
+.modal-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+  border-bottom: 2px solid #006600; /* Green border */
+}
+
+.modal-content h2 {
+  margin: 20px 0;
+  font-size: 2rem;
+  color: #006600;
+}
+
+.modal-content p {
+  margin: 10px 0;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #333;
+}
+
+
+/* Hover animation */
+.event-button:hover {
+  transform: scale(1.05);
+}
+
+.modal-content {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+   }
+}
