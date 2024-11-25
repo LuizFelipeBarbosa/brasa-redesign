@@ -1,254 +1,182 @@
 [
     {
-        "name": "Ana Catharina Q.",
-        "position": "CO-PRESIDENT",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_ana_catharina_q.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/anacatharinaq",
-            "Email": "ana.catharina.q@example.com",
-            "Instagram": "https://www.instagram.com/anacatharinaq"
-        },
-        "group": "BOARD LEADERSHIP"
-    },
-    {
         "name": "Daniel Liao",
-        "position": "CO-PRESIDENT",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
+        "position": "Co-President",
+        "bio": "Me chamo Daniel e sou um junior cursando Economia. Nasci e vivi a minha vida toda em São Paulo, capital. Sou apaixonado pelo mundo de finanças, mercado de capitais e, futebol (vai Corinthians)!",
         "profilePicture": "profile_picture_daniel_liao.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/danielliao",
-            "Email": "daniel.liao@example.com",
-            "Instagram": "https://www.instagram.com/danielliao"
+            "LinkedIn": "https://www.linkedin.com/in/daniel-bern%C3%A1th-liao-545518213",
+            "Email": "danielbernathliao@berkeley.edu",
+            "Instagram": "https://www.instagram.com/danielbernathliao"
         },
-        "group": "BOARD LEADERSHIP"
-    },
-    {
-        "name": "Bruna Leão",
-        "position": "VP OF OPERATIONS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_bruna_leao.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/brunaleao",
-            "Email": "bruna.leao@example.com",
-            "Instagram": "https://www.instagram.com/brunaleao"
-        },
-        "group": "BOARD LEADERSHIP"
-    },
-    {
-        "name": "Joe Wang",
-        "position": "VP OF OPERATIONS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_joe_wang.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/joewang",
-            "Email": "joe.wang@example.com",
-            "Instagram": "https://www.instagram.com/joewang"
-        },
-        "group": "BOARD LEADERSHIP"
-    },
-    {
-        "name": "Nicole Elmôr",
-        "position": "VP OF FINANCE",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_nicole_elmor.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/nicoleelmor",
-            "Email": "nicole.elmor@example.com",
-            "Instagram": "https://www.instagram.com/nicoleelmor"
-        },
-        "group": "BOARD LEADERSHIP"
-    },
-    {
-        "name": "Mariana Ierardi",
-        "position": "VP OF SOCIAL AFFAIRS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_mariana_ierardi.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/marianaierardi",
-            "Email": "mariana.ierardi@example.com",
-            "Instagram": "https://www.instagram.com/marianaierardi"
-        },
-        "group": "BOARD LEADERSHIP"
+        "group": "Board Leadership"
     },
     {
         "name": "Lucas Camargo",
-        "position": "VP OF TECH",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
+        "position": "Co-President",
+        "bio": "Me chamo Lucas e sou um junior cursando Economia e Ciência de Dados. Natural de São Paulo, sou fascinado pelo mundo das finanças e tecnologia, e principalmente pelo uso de inteligência artificial e estatística no mercado financeiro. E, claro, não podia esquecer da minha paixão por futebol!",
         "profilePicture": "profile_picture_lucas_camargo.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/lucascamargo",
-            "Email": "lucas.camargo@example.com",
+            "LinkedIn": "https://www.linkedin.com/in/lucas-camargo-133852222",
+            "Email": "lucas.camargo@berkeley.edu",
             "Instagram": "https://www.instagram.com/lucascamargo"
         },
-        "group": "BOARD LEADERSHIP"
+        "group": "Board Leadership"
     },
     {
-        "name": "Ana Teresa Fabiani",
-        "position": "VP OF MARKETING",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_ana_teresa_fabiani.png",
+        "name": "Nicole Elmôr",
+        "position": "Head of Finance",
+        "bio": "Me chamo Nicole e sou Class of 2026! Estou cursando um double major em Economia e Ciência de Dados. Sou de São Paulo.",
+        "profilePicture": "profile_picture_nicole_elmor.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/anateresafabiani",
-            "Email": "ana.teresa.fabiani@example.com",
-            "Instagram": "https://www.instagram.com/anateresafabiani"
+            "LinkedIn": "https://linkedin.com/in/nicoleelmor",
+            "Email": "nicoleelmor@berkeley.edu",
+            "Instagram": "https://www.instagram.com/nicoleelmor"
         },
-        "group": "BOARD LEADERSHIP"
+        "group": "Board Leadership"
+    },
+    {
+        "name": "Joe Wang",
+        "position": "Head of Operations",
+        "bio": "Nasci em Shanghai, China, e vivi em São Paulo, Brasil. Estudo Ciência de Computação na UC Berkeley, e adoro tecnologia!",
+        "profilePicture": "profile_picture_joe_wang.png",
+        "links": {
+            "LinkedIn": "https://linkedin.com/in/joseph-wang-zz",
+            "Email": "zezhou_wang@berkeley.edu",
+            "Instagram": "https://www.instagram.com/joewangzz"
+        },
+        "group": "Board Leadership"
     },
     {
         "name": "Leonardo Soffiatti",
-        "position": "VP OF EXTERNAL RELATIONS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
+        "position": "Head of Operations",
+        "bio": "Meu nome é Leonardo e sou um sophomore estudando Engenharia Elétrica e Ciência da Computação. Sou de Curitiba e me interesso por ciência, tecnologia, matemática, jogos e livros!!",
         "profilePicture": "profile_picture_leonardo_soffiatti.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/leonardosoffiatti",
-            "Email": "leonardo.soffiatti@example.com",
+            "LinkedIn": "https://linkedin.com/in/leonardosoffiatti",
+            "Email": "leonardo.soffiatti@berkeley.edu",
             "Instagram": "https://www.instagram.com/leonardosoffiatti"
         },
-        "group": "BOARD LEADERSHIP"
+        "group": "Board Leadership"
     },
     {
-        "name": "Amogh Balaji",
-        "position": "OPERATIONS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_amogh_balaji.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/amoghbalaji",
-            "Email": "amogh.balaji@example.com",
-            "Instagram": "https://www.instagram.com/amoghbalaji"
-        },
-        "group": "BOARD MEMBERS"
-    },
-    {
-        "name": "Marina Sant'Anna",
-        "position": "FINANCE",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_marina_santanna.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/marinasantanna",
-            "Email": "marina.santanna@example.com",
-            "Instagram": "https://www.instagram.com/marinasantanna"
-        },
-        "group": "BOARD MEMBERS"
-    },
-    {
-        "name": "Christian Hulot",
-        "position": "FINANCE",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_christian_hulot.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/christianhulot",
-            "Email": "christian.hulot@example.com",
-            "Instagram": "https://www.instagram.com/christianhulot"
-        },
-        "group": "BOARD MEMBERS"
-    },
-    {
-        "name": "Duda Lopes",
-        "position": "SOCIAL AFFAIRS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_duda_lopes.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/dudalopes",
-            "Email": "duda.lopes@example.com",
-            "Instagram": "https://www.instagram.com/dudalopes"
-        },
-        "group": "BOARD MEMBERS"
-    },
-    {
-        "name": "Thais Dubost",
-        "position": "SOCIAL AFFAIRS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
+        "name": "Thaís Dubost",
+        "position": "Head of Social Affairs",
+        "bio": "Meu nome é Thais e sou uma sophomore estudando Biologia Molecular (MCB). Nasci no Brasil, sou meio francesa, e já morei em cinco países diferentes! Sou apaixonada por genética e quero trabalhar com pesquisa na área da saúde. Além disso, adoro fazer hipismo!",
         "profilePicture": "profile_picture_thais_dubost.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/thaisdubost",
-            "Email": "thais.dubost@example.com",
+            "LinkedIn": "https://www.linkedin.com/in/thais-dubost",
+            "Email": "thaisdubost@berkeley.edu",
             "Instagram": "https://www.instagram.com/thaisdubost"
         },
-        "group": "BOARD MEMBERS"
+        "group": "Board Leadership"
     },
     {
-        "name": "Arthur Lopes",
-        "position": "SOCIAL AFFAIRS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_arthur_lopes.png",
+        "name": "Brisa Vicente Brown",
+        "position": "Head of Marketing",
+        "bio": "Me chamo Brisa e sou estudante de terceiro ano cursando diploma duplo em Nutrição, com foco em Biologia Metabólica, e Português. Vivi em San Diego, Califórnia, e aprendi português em casa com minha mãe, de São Paulo. Me preparo para a área médica e sou apaixonada por nutrição, saúde e culturas.",
+        "profilePicture": "profile_picture_brisa_vicente_brown.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/arthurlopes",
-            "Email": "arthur.lopes@example.com",
-            "Instagram": "https://www.instagram.com/arthurlopes"
+            "LinkedIn": "https://www.linkedin.com/in/brisa-brown-559728304",
+            "Email": "brisabrown@berkeley.edu",
+            "Instagram": "https://www.instagram.com/brisabrown"
         },
-        "group": "BOARD MEMBERS"
+        "group": "Board Leadership"
     },
     {
-        "name": "Luan Cruz",
-        "position": "TECH",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_luan_cruz.png",
+        "name": "Gabriel Abreu",
+        "position": "Operations Member",
+        "bio": "Meu nome é Gabriel, sou freshman estudando economia política. Nasci em Recife e me mudei para a Califórnia aos 16 anos. Sempre fui apaixonado pelo comércio internacional, mas também gosto de acompanhar a indústria do entretenimento e a geopolítica global.",
+        "profilePicture": "profile_picture_gabriel_abreu.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/luancruz",
-            "Email": "luan.cruz@example.com",
-            "Instagram": "https://www.instagram.com/luancruz"
+            "LinkedIn": "https://www.linkedin.com/in/gabriel-abreu-845037329",
+            "Email": "gabriel.abreu@berkeley.edu",
+            "Instagram": "https://www.instagram.com/gabriel.abreu"
         },
-        "group": "BOARD MEMBERS"
+        "group": "Board Members"
     },
     {
-        "name": "Lara Chieppe",
-        "position": "TECH",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_lara_chieppe.png",
+        "name": "Bruno Vieira",
+        "position": "Operations Member",
+        "bio": "Me chamo Bruno e sou um junior cursando EECS. Nasci e vivi minha vida toda em Campinas e tenho interesse no mercado financeiro. Nas minhas horas vagas jogo futebol e vou na academia.",
+        "profilePicture": "profile_picture_bruno_vieira.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/larachieppe",
-            "Email": "lara.chieppe@example.com",
-            "Instagram": "https://www.instagram.com/larachieppe"
+            "LinkedIn": "https://www.linkedin.com/in/bruno-borges-marques-vieira",
+            "Email": "bruno.vieira@berkeley.edu",
+            "Instagram": "https://www.instagram.com/brunovieira"
         },
-        "group": "BOARD MEMBERS"
+        "group": "Board Members"
+    },
+    {
+        "name": "Sinead Bermudez",
+        "position": "Social Affairs Member",
+        "bio": "Eu sou Sinead, sou freshman, e fiz um intercâmbio no interior de São Paulo por um ano. Estou estudando linguística e adoro jogar futebol e cantar.",
+        "profilePicture": "profile_picture_sinead_bermudez.png",
+        "links": {
+            "LinkedIn": "N/A",
+            "Email": "sineadbermudez@berkeley.edu",
+            "Instagram": "https://www.instagram.com/sineadbermudez"
+        },
+        "group": "Board Members"
+    },
+    {
+        "name": "Júlia Araújo",
+        "position": "Social Affairs Member",
+        "bio": "Me chamo Júlia e sou uma sophomore cursando Media Studies! Meus pais são de Recife, mas eu cresci em Los Angeles. Gosto de passear pela praia, ler, e tenho uma paixão por mídia e cultura popular.",
+        "profilePicture": "profile_picture_julia_araujo.png",
+        "links": {
+            "LinkedIn": "https://www.linkedin.com/in/julia-araujo-6035202bb",
+            "Email": "juliaaraujo@berkeley.edu",
+            "Instagram": "https://www.instagram.com/juliaaraujo"
+        },
+        "group": "Board Members"
+    },
+    {
+        "name": "Luiz Felipe Barbosa",
+        "position": "Marketing Member",
+        "bio": "Sou o Luiz, um Junior cursando Mathematics e Media Studies. Sou de São Paulo, capital, e morei no Brasil até o fim do ensino médio. Gosto muito de política, tecnologia e arte, sempre com o foco de aprender sobre o mundo!",
+        "profilePicture": "profile_picture_luiz_felipe_barbosa.png",
+        "links": {
+            "LinkedIn": "https://www.linkedin.com/in/luiz-felipe-barbosa-5989a9294",
+            "Email": "lbarb021@berkeley.edu",
+            "Instagram": "https://www.instagram.com/luizbarbosa"
+        },
+        "group": "Board Members"
+    },
+    {
+        "name": "Bruno Jose Ferreira de Meirelles Fonseca",
+        "position": "Finance Member",
+        "bio": "Prazer meu nome é Bruno, sou um junior cursando Economia. Eu nasci e fui criado em Salvador mas com 18 anos me mudei para França para a primeira parte do meu duplo diploma. Adoro política e direito internacional mas também andar de cavalo e ir para praia.",
+        "profilePicture": "profile_picture_bruno_fonseca.png",
+        "links": {
+            "LinkedIn": "https://www.linkedin.com/in/bruno-jose-fonseca-65303b225/",
+            "Email": "brunojose.fonseca@berkeley.edu",
+            "Instagram": "https://www.instagram.com/brunojosefonseca"
+        },
+        "group": "Board Members"
     },
     {
         "name": "Roni Kriger",
-        "position": "TECH",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
+        "position": "Tech Member",
+        "bio": "Sou Roni Kriger, estudante de Engenharia Elétrica e Ciência da Computação. Tenho grande paixão por tecnologia e inovação. Além dos estudos, gosto de explorar novos avanços em inteligência artificial e me dedicar a projetos desafiadores na área.",
         "profilePicture": "profile_picture_roni_kriger.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/ronikriger",
-            "Email": "roni.kriger@example.com",
+            "LinkedIn": "https://linkedin.com/in/ronikriger",
+            "Email": "ronikriger@berkeley.edu",
             "Instagram": "https://www.instagram.com/ronikriger"
         },
-        "group": "BOARD MEMBERS"
+        "group": "Board Members"
     },
     {
         "name": "Tiffanie Guichard",
-        "position": "TECH",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
+        "position": "Tech Member",
+        "bio": "Me chamo Tiffanie e sou uma sophomore cursando ciência da computação. Nasci no México e morei em Turquia metade da minha vida. Sou fascinada pela cultura brasileira e pelo país. Comecei a aprender português no início do meu primeiro ano!",
         "profilePicture": "profile_picture_tiffanie_guichard.png",
         "links": {
-            "LinkedIn": "https://www.linkedin.com/in/tiffanieguichard",
-            "Email": "tiffanie.guichard@example.com",
+            "LinkedIn": "http://linkedin.com/in/tiffanie-guichard-742735285",
+            "Email": "tiffanieguichard@berkeley.edu",
             "Instagram": "https://www.instagram.com/tiffanieguichard"
         },
-        "group": "BOARD MEMBERS"
-    },
-    {
-        "name": "Brisa Brown",
-        "position": "MARKETING",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_brisa_brown.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/brisabrown",
-            "Email": "brisa.brown@example.com",
-            "Instagram": "https://www.instagram.com/brisabrown"
-        },
-        "group": "BOARD MEMBERS"
-    },
-    {
-        "name": "Matheus Ribeiro",
-        "position": "EXTERNAL RELATIONS",
-        "bio": "I'm a computer science student at UFRJ. I'm passionate about technology and I'm always looking for new challenges.",
-        "profilePicture": "profile_picture_matheus_ribeiro.png",
-        "links": {
-            "LinkedIn": "https://www.linkedin.com/in/matheusribeiro",
-            "Email": "matheus.ribeiro@example.com",
-            "Instagram": "https://www.instagram.com/matheusribeiro"
-        },
-        "group": "BOARD MEMBERS"
+        "group": "Board Members"
     }
 ]
