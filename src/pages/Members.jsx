@@ -2,7 +2,7 @@ import React from "react";
 import MemberCard from "../components/MemberCard";
 import { useLanguage } from "../LanguageContext";
 import members from "../dummy_data_boardmembers.json"; // Import JSON directly
-import pfp from "../assets/pfp/default.png"; // Default profile picture
+import pfp from "lucas.png"; // Default profile picture
 
 function Members() {
     const { language } = useLanguage();
