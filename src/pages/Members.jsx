@@ -1,6 +1,5 @@
 import React from "react";
 import { useLanguage } from "../LanguageContext";
-import pfp from "lucas.png"; // Default profile picture
 
 // Define the members data directly in the file
 const members = [
