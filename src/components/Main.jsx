@@ -8,6 +8,7 @@ import img4 from "../assets/106.png";
 import img5 from "../assets/107.png";
 import { useLanguage } from "../LanguageContext";
 import { Link } from "react-router-dom";
+import Events from '../pages/Events.jsx'
 
 function Main() {
 	const { language, toggleLanguage } = useLanguage();
@@ -216,9 +217,10 @@ function Main() {
 							<p className="">
 								{translations[language].events_text}
 							</p>
+							
 							<Link 
-								to='../pages/Events";'
-								className="flex bg-blue-700 hover:bg-blue-950 text-gray-100 text-2xl font-bold py-2 px-4 rounded mb-24" >
+								to=''
+								className="flex opacity-0 bg-blue-700 hover:bg-blue-950 text-gray-100 text-2xl font-bold py-2 px-4 rounded mb-6" >
 									{translations[language].events_button}
 							</Link>
 						</div>

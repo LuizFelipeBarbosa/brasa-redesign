@@ -4,6 +4,54 @@ import { useLanguage } from "../LanguageContext";
 // Define the members data directly in the file
 const members = [
   {
+    "name": "Daniel Liao",
+    "position": "Co-President",
+    "bio": "Me chamo Daniel e sou um junior cursando Economia. Nasci e vivi a minha vida toda em São Paulo, capital. Sou apaixonado pelo mundo de finanças, mercado de capitais e, futebol (vai Corinthians)!",
+    "profilePicture": "/11-DSCF2363 - Daniel Liao.jpg",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/daniel-bern%C3%A1th-liao-545518213",
+      "Email": "danielbernathliao@berkeley.edu",
+      "Instagram": "https://www.instagram.com/danielbernathliao"
+    },
+    "group": "Board Leadership"
+  },
+  {
+    "name": "Lucas Camargo",
+    "position": "Co-President",
+    "bio": "Me chamo Lucas e sou um junior cursando Economia e Ciência de Dados. Natural de São Paulo, sou fascinado pelo mundo das finanças e tecnologia, e principalmente pelo uso de inteligência artificial e estatística no mercado financeiro. E, claro, não podia esquecer da minha paixão por futebol!",
+    "profilePicture": "/148-DSCF2500 - Lucas Carvalho da Rocha Camargo.jpg",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/lucas-camargo-133852222",
+      "Email": "lucas.camargo@berkeley.edu",
+      "Instagram": "https://www.instagram.com/lucascamargo"
+    },
+    "group": "Board Leadership"
+  },
+  {
+    "name": "Joe Wang",
+    "position": "Head of Operations",
+    "bio": "Nasci em Shanghai, China, e vivi em São Paulo, Brasil. Estudo Ciência de Computação na UC Berkeley, e adoro tecnologia!",
+    "profilePicture": "Joe.jpg",
+    "links": {
+      "LinkedIn": "https://linkedin.com/in/joseph-wang-zz",
+      "Email": "zezhou_wang@berkeley.edu",
+      "Instagram": "https://www.instagram.com/joewangzz"
+    },
+    "group": "Board Leadership"
+  },
+  {
+    "name": "Lara Chieppe",
+    "position": "Head of Tech",
+    "bio": "Me chamo Lara e estou no meu segundo ano cursando Bioengenharia. Sou de Vitória e meus principais interesses involvem tecnologia e livros!",
+    "profilePicture": "Lara.jpg",
+    "links": {
+      "LinkedIn": "https://linkedin.com/in/larachieppe",
+      "Email": "larachieppe@berkeley.edu",
+      "Instagram": "https://www.instagram.com/lara.gc"
+    },
+    "group": "Board Leadership"
+  },
+  {
     "name": "Nicole Elmôr",
     "position": "Head of Finance",
     "bio": "Me chamo Nicole e sou Class of 2026! Estou cursando um double major em Economia e Ciência de Dados. Sou de São Paulo.",
@@ -12,18 +60,6 @@ const members = [
       "LinkedIn": "https://linkedin.com/in/nicoleelmor",
       "Email": "nicoleelmor@berkeley.edu",
       "Instagram": "https://www.instagram.com/nicoleelmor"
-    },
-    "group": "Board Leadership"
-  },
-  {
-    "name": "Joe Wang",
-    "position": "Head of Operations",
-    "bio": "Nasci em Shanghai, China, e vivi em São Paulo, Brasil. Estudo Ciência de Computação na UC Berkeley, e adoro tecnologia!",
-    "profilePicture": "/20240922_184547 - Joe Wang.jpg",
-    "links": {
-      "LinkedIn": "https://linkedin.com/in/joseph-wang-zz",
-      "Email": "zezhou_wang@berkeley.edu",
-      "Instagram": "https://www.instagram.com/joewangzz"
     },
     "group": "Board Leadership"
   },
@@ -38,18 +74,6 @@ const members = [
       "Instagram": "https://www.instagram.com/gabriel.abreu"
     },
     "group": "Board Members"
-  },
-  {
-    "name": "Daniel Liao",
-    "position": "Co-President",
-    "bio": "Me chamo Daniel e sou um junior cursando Economia. Nasci e vivi a minha vida toda em São Paulo, capital. Sou apaixonado pelo mundo de finanças, mercado de capitais e, futebol (vai Corinthians)!",
-    "profilePicture": "/11-DSCF2363 - Daniel Liao.jpg",
-    "links": {
-      "LinkedIn": "https://www.linkedin.com/in/daniel-bern%C3%A1th-liao-545518213",
-      "Email": "danielbernathliao@berkeley.edu",
-      "Instagram": "https://www.instagram.com/danielbernathliao"
-    },
-    "group": "Board Leadership"
   },
   {
     "name": "Júlia Araújo",
@@ -79,7 +103,7 @@ const members = [
     "name": "Roni Kriger",
     "position": "Tech Member",
     "bio": "Sou Roni Kriger, estudante de Engenharia Elétrica e Ciência da Computação. Tenho grande paixão por tecnologia e inovação. Além dos estudos, gosto de explorar novos avanços em inteligência artificial e me dedicar a projetos desafiadores na área.",
-    "profilePicture": "/IMG_4563 - Roni Kriger.jpeg",
+    "profilePicture": "Roni.jpeg",
     "links": {
       "LinkedIn": "https://linkedin.com/in/ronikriger",
       "Email": "ronikriger@berkeley.edu",
@@ -96,18 +120,6 @@ const members = [
       "LinkedIn": "https://www.linkedin.com/in/brisa-brown-559728304",
       "Email": "brisabrown@berkeley.edu",
       "Instagram": "https://www.instagram.com/brisabrown"
-    },
-    "group": "Board Leadership"
-  },
-  {
-    "name": "Lucas Camargo",
-    "position": "Co-President",
-    "bio": "Me chamo Lucas e sou um junior cursando Economia e Ciência de Dados. Natural de São Paulo, sou fascinado pelo mundo das finanças e tecnologia, e principalmente pelo uso de inteligência artificial e estatística no mercado financeiro. E, claro, não podia esquecer da minha paixão por futebol!",
-    "profilePicture": "/148-DSCF2500 - Lucas Carvalho da Rocha Camargo.jpg",
-    "links": {
-      "LinkedIn": "https://www.linkedin.com/in/lucas-camargo-133852222",
-      "Email": "lucas.camargo@berkeley.edu",
-      "Instagram": "https://www.instagram.com/lucascamargo"
     },
     "group": "Board Leadership"
   },
@@ -191,7 +203,7 @@ function MemberCard(props) {
 
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white">
-      <img className="w-full" src={pfp} alt={`${name}'s Profile Picture`} />
+      <img className="w-full object-cover h-96" src={pfp} alt={`${name}'s Profile Picture`} />
       <div className="px-6 py-4">
         <h2 className="font-bold text-xl text-lime-600">{name}</h2>
         <p className="text-gray-700 text-sm mb-2">{position}</p>
